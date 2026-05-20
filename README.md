@@ -25,7 +25,7 @@ The Smart Leads Dashboard is a production-grade, full-stack web application desi
 ## Getting Started
 
 1. Clone the repository
-git clone https://github.com/siva-subramanian04/smart-leads-dash
+git clone https://github.com/siva-subramanian04/servicehive-project.git
 cd smart-leads-dashboard
 
 2. Environment Configuration
